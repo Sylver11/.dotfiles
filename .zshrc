@@ -22,3 +22,9 @@ antigen use oh-my-zsh
 antigen bundle git
 antigen bundle ~/Code/Cognician/bootstrap/zsh-plugin --no-local-clone
 antigen apply
+
+
+
+
+#####NEW###########
+#ln -s ~/.dotiles/.zshrc ~/.zshrc
